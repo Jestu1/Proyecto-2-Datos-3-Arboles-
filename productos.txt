@@ -1,0 +1,27 @@
+1|Laptop Lenovo Legion|1200|15.0|102
+2|PC Escritorio HP Pavilion|850|8.0|102
+3|Monitor Gamer ASUS 27|320|22.0|102
+4|Teclado Mecanico Corsair K70|130|45.0|102
+5|Celular Samsung S23 Ultra|1199|10.0|103
+6|Celular iPhone 15 Pro|1099|12.0|103
+7|Celular Xiaomi Redmi Note 13|250|30.0|103
+8|Auriculares Sony WH-1000XM5|350|18.0|104
+9|Parlante JBL Flip 6|110|25.0|104
+10|Microfono HyperX QuadCast|140|14.0|104
+11|Lapicero Azul BIC Pack 12|5|150.0|207
+12|Cuaderno de Notas Moleskine|22|60.0|207
+13|Resma de Hojas A4 Chamex|7|200.0|207
+14|Marcadores Sharpie 12 Pack|15|80.0|207
+15|Organizador de Escritorio Metalico|18|40.0|206
+16|Lampara de Escritorio LED|29|35.0|206
+17|Silla Ergonomica de Oficina|180|10.0|206
+18|Cafetera Espresso Oster|149|12.0|302
+19|Licuadora Black and Decker|45|20.0|302
+20|Horno de Microondas Panasonic|115|15.0|302
+21|Juego de Cuchillos de Cocina|35|25.0|302
+22|Toalla de Algodon Grande|12|75.0|303
+23|Dispensador de Jabon Automatico|24|50.0|303
+24|Cortina de Ducha Impermeable|15|40.0|303
+25|Invalido sin suficientes campos|100
+26|Invalido Categoria Inexistente|150|10.0|999
+27|Dispensador de Jabon Automaticos|24|50.0|nulo

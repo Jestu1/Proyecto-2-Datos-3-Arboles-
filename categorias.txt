@@ -1,0 +1,10 @@
+101|Electronica|nulo
+102|Computadoras|101
+103|Celulares|101
+104|Audio|101
+205|Utiles|nulo
+206|Escritorio|205
+207|Papeleria|205
+301|Hogar|nulo
+302|Cocina|301
+303|Bano|301
